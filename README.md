@@ -49,7 +49,8 @@ Here’s a quick look at *MindEase* in action:
 
 👉 Try MindEase on web: [![Try MindEase](https://img.shields.io/badge/Try%20Now-2ECC71?style=for-the-badge&logo=ibm&logoColor=white)](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-7d52e782-6835-4882-b2f8-4a3ca3e07e12%3A%3A833617a2-578b-49cd-b02a-611cfb3013b3&integrationID=0128e10e-f98b-4720-abec-4c88da949e42&region=au-syd&serviceInstanceID=7d52e782-6835-4882-b2f8-4a3ca3e07e12)
 
-👉 For trying MindEase on WhatsApp, please follow the step-by-step instructions provided here: 🔗 **[WhatsApp Deployment Instructions](./deployment/README.md)**
+👉 For trying MindEase on WhatsApp, please follow the step-by-step instructions provided here: 
+🔗 **[WhatsApp Deployment Instructions](./deployment/README.md)**
 
 📝 **Note:** Please reply using the **option numbers** instead of full sentences, as this is a rule-based chatbot.
 
